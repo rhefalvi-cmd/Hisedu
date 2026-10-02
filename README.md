@@ -705,7 +705,7 @@
                 year: '20 Mei 1908',
                 founders: 'Dr. Sutomo, Dr. Wahidin Sudirohusodo, dan Mahasiswa STOVIA',
                 bgGradient: 'from-amber-700 to-yellow-600',
-                icon: 'fa-sun',
+                icon: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Budi_Utomo.png/500px-Budi_Utomo.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail',
                 goals: 'Memajukan pendidikan, kebudayaan Jawa, serta pengajaran bagi kaum pribumi Hindia Belanda.',
                 strategy: 'Kooperatif (Moderat & Sosio-Kultural)',
                 emblem: 'Matahari terbit melambangkan fajar kesadaran baru dan pencerahan ilmu pengetahuan bagi bangsa.'
@@ -716,7 +716,7 @@
                 year: '1911 (SDI) / 1912 (SI)',
                 founders: 'K.H. Samanhudi & H.O.S. Tjokroaminoto',
                 bgGradient: 'from-emerald-800 to-green-600',
-                icon: 'fa-moon',
+                icon: 'https://cdn1-production-images-kly.akamaized.net/jvZIppFM2-w9cXJr4bRoB3EGksI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3518680/original/002758900_1627018664-SI.jpg',
                 goals: 'Mengembangkan jiwa berdagang pribumi, membela hak-hak rakyat kecil, serta memajukan kehidupan berdasarkan syariat Islam.',
                 strategy: 'Masa awal Kooperatif kemudian berkembang menjadi pergerakan politik kritis massa.',
                 emblem: 'Bulan sabit & bintang melambangkan naungan nilai keagamaan dan keadilan bagi seluruh rakyat.'
@@ -727,7 +727,7 @@
                 year: '25 Desember 1912',
                 founders: 'Tiga Serangkai (E.F.E. Douwes Dekker, Dr. Cipto Mangunkusumo, Ki Hajar Dewantara)',
                 bgGradient: 'from-rose-800 to-red-600',
-                icon: 'fa-fire',
+                icon: 'https://upload.wikimedia.org/wikipedia/commons/d/dc/Indische_Partij.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original',
                 goals: 'Membangun rasa patriotisme seluruh "Indiërs" (pribumi & keturunan) menuju kemerdekaan tanah air Hindia.',
                 strategy: 'Non-Kooperatif & Radikal (Slogan: "Indie voor Indiërs")',
                 emblem: 'Obor menyala melambangkan semangat perlawanan radikal menumbangkan kolonialisme.'
@@ -738,7 +738,7 @@
                 year: '1908 (Indische Vereeniging) / 1925',
                 founders: 'Mohammad Hatta, Sutan Sjahrir, Iwa Kusumasumantri (di Belanda)',
                 bgGradient: 'from-blue-800 to-indigo-600',
-                icon: 'fa-ship',
+                icon: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Perhimpunan_Indonesia.png/500px-Flag_of_Perhimpunan_Indonesia.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail',
                 goals: 'Menuntut kemerdekaan penuh Indonesia tanpa bantuan kolonial Belanda di tingkat internasional.',
                 strategy: 'Non-Kooperatif & Diri Sendiri (Self-Help)',
                 emblem: 'Kepala Banteng & Bendera Merah Putih melambangkan keberanian dan kedaulatan bangsa Indonesia.'
@@ -749,7 +749,7 @@
                 year: '4 Juli 1927',
                 founders: 'Ir. Soekarno & Algemeene Studieclub Bandung',
                 bgGradient: 'from-red-900 to-amber-700',
-                icon: 'fa-bullhorn',
+                icon: 'https://upload.wikimedia.org/wikipedia/commons/b/ba/Partai_Nasional_Indonesia.svg?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original',
                 goals: 'Mencapai Indonesia Merdeka penuh dengan asas Marhaenisme (membela rakyat kecil).',
                 strategy: 'Non-Kooperatif & Massal',
                 emblem: 'Kepala Banteng dalam lingkaran melambangkan kekuatan rakyat jelata yang bersatu teguh.'
@@ -760,7 +760,7 @@
                 year: '3 Juli 1922',
                 founders: 'Ki Hajar Dewantara (Soewardi Soerjaningrat)',
                 bgGradient: 'from-teal-800 to-cyan-600',
-                icon: 'fa-book-bookmark',
+                icon: 'https://tamansiswajkt.wordpress.com/wp-content/uploads/2013/05/cakra.jpg',
                 goals: 'Menyediakan pendidikan berjiwa kebangsaan dan kebebasan berpikir bagi anak-anak Indonesia.',
                 strategy: 'Sosio-Pendidikan Kebangsaan (Semboyan: Tut Wuri Handayani)',
                 emblem: 'Garuda dan Cakra melambangkan kebebasan jiwa dan budi pekerti yang luhur.'
