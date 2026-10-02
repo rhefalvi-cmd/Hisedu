@@ -355,7 +355,7 @@
                         <i class="fa-solid fa-flag text-red-600"></i> Kongres Pemuda II & Sumpah Pemuda (1928)
                     </h3>
                     <p class="text-gray-700 leading-relaxed">
-                        Kongres Pemuda II diselenggarakan pada 27-28 Oktober 1928 di Batavia. Dipimpin oleh Sugondo Djojopuspito (PPPI), kongres ini melahirkan ikrar monumental **Sumpah Pemuda** dan memperdengarkan lagu *Indonesia Raya* karya W.R. Supratman untuk pertama kalinya.
+                        Kongres Pemuda II diselenggarakan pada 27-28 Oktober 1928 di Batavia. Dipimpin oleh Sugondo Djojopuspito (PPPI), kongres ini melahirkan ikrar monumental Sumpah Pemuda dan memperdengarkan lagu Indonesia Raya karya W.R. Supratman untuk pertama kalinya.
                     </p>
                     <div class="bg-amber-100/60 p-6 rounded-2xl border-l-4 border-history-maroon text-center space-y-3 shadow-inner">
                         <h4 class="font-cinzel text-xl font-bold text-history-maroon">IKRAR SUMPAH PEMUDA</h4>
@@ -376,7 +376,7 @@
                         <div class="p-5 bg-amber-50/80 rounded-xl border border-amber-200">
                             <h4 class="font-bold text-history-maroon text-lg mb-2"><i class="fa-solid fa-newspaper mr-2"></i> Peranan Pers Nasional</h4>
                             <p class="text-sm text-gray-700 leading-relaxed">
-                                Surat kabar seperti *Medan Prijaji* (Tirto Adhi Soerjo), *Fadjar Asia*, dan *Indonesia Merdeka* berfungsi membakar semangat kebangsaan, menyebarkan ideologi antikolonial, serta mengkritik kebijakan pemerintah Hindia Belanda.
+                                Surat kabar seperti Medan Prijaji (Tirto Adhi Soerjo), Fadjar Asia, dan Indonesia Merdeka berfungsi membakar semangat kebangsaan, menyebarkan ideologi antikolonial, serta mengkritik kebijakan pemerintah Hindia Belanda.
                             </p>
                         </div>
                         <div class="p-5 bg-pink-50/80 rounded-xl border border-pink-200">
